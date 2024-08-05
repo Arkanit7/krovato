@@ -38,17 +38,17 @@ Users should be able to:
 
 #### Pages
 
-- [About](https://krovato.netlify.app/about.html)
-- [Article](https://krovato.netlify.app/article.html)
-- [Blog](https://krovato.netlify.app/blog.html)
-- [Checkout](https://krovato.netlify.app/checkout.html)
-- [Contacts](https://krovato.netlify.app/contacts.html)
-- [Delivery](https://krovato.netlify.app/delivery.html)
 - [Home](https://krovato.netlify.app/index.html)
-- [Payment](https://krovato.netlify.app/payment.html)
+- [Catalog](https://krovato.netlify.app/set.html)
 - [Product](https://krovato.netlify.app/product.html)
+- [Checkout](https://krovato.netlify.app/checkout.html)
+- [About](https://krovato.netlify.app/about.html)
+- [Payment](https://krovato.netlify.app/payment.html)
+- [Delivery](https://krovato.netlify.app/delivery.html)
 - [Reviews](https://krovato.netlify.app/reviews.html)
-- [Set](https://krovato.netlify.app/set.html)
+- [Blog](https://krovato.netlify.app/blog.html)
+- [Article](https://krovato.netlify.app/article.html)
+- [Contacts](https://krovato.netlify.app/contacts.html)
 
 ## My process
 
